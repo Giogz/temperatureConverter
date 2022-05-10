@@ -1,5 +1,5 @@
 // forescast today in kelvin mesuare
-const kelvin = 600;
+const kelvin = 560;
 // forescast today in celsius
 let celsius = kelvin - 273;
 let newton = celsius * (33 / 100);
